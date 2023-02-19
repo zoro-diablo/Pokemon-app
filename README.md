@@ -1,3 +1,5 @@
 # Pokemon-app
 
-Poki Api
+Made using pokemon api : 
+
+ https://zoro-diablo.github.io/Pokemon-app/
