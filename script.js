@@ -34,4 +34,3 @@ function getPokemon(e) {
   e.preventDefault()
 }
 
-getPokemon()
