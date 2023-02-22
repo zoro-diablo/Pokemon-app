@@ -1,3 +1,7 @@
+// Done Using then and catch method --->
+// -----------------------------------------------
+
+
 // document.querySelector('#search').addEventListener('click', getPokemon)
 
 // function capitalizeLetter(string){
@@ -33,6 +37,11 @@
 
 //   e.preventDefault()
 // }
+
+// Done using Async method --->
+// -----------------------------------------
+
+
 const CLIENT_ID = '641f56d0a51886600bf9'
 const CLIENT_SECRETS = 'bdfbbe501ea091a95cf95a96fd01b2f24350b0df'
 
